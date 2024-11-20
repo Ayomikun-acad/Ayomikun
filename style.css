@@ -1,6 +1,7 @@
 h1 {
     color: white;
     border: 1px solid white;
+    background-color: black;
 }
 body {
     background-color: grey;
